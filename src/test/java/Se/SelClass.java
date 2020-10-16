@@ -45,7 +45,7 @@ public class SelClass {
             driver.quit();
         }
 
-        System.out.println("Действие после теста");
+        System.out.println("Действиепосле теста");
 
     }
 
