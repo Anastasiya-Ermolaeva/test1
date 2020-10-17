@@ -64,8 +64,6 @@
                 <configuration>
 
 
-
-
                     <forkCount>${fork.Count}</forkCount>
                     <reuseForks>true</reuseForks>
                     <skip>false</skip>
